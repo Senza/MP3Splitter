@@ -7,7 +7,6 @@ It uses the `pydub` library for audio manipulation and requires the `ffmpeg` lib
 ---
 
 ## Features:
-- Split MP3 files into equal-duration segments.
 - Split MP3 files based on a list of start and end timestamps.
 - Automatically name the output files for easy organization.
 
